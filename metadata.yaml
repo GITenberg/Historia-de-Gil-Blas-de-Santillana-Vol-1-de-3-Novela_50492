@@ -1,9 +1,13 @@
 _repo: Historia-de-Gil-Blas-de-Santillana-Vol-1-de-3-Novela_50492
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Isla, P.
     gutenberg_agent_id: '45937'
     url: http://www.gutenberg.org/2009/agents/45937
+covers:
+- cover_type: archival
+  image_path: 50492-h/images/cover.jpg
 creator:
   author:
     agent_name: Le Sage, Alain René
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50492#Historia-de-Gil-Blas-de-Santillana-Vol-1-de-3-Novela
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
